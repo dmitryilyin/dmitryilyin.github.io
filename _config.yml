@@ -1,0 +1,11 @@
+# Site settings
+title: GutHub Pages Test
+email: idv1985@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Test GitHub Pages with Jekyll
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dmitryilyin.github.io" # the base hostname & protocol for your site
+github_username: dmitryilyin 
+
+# Build settings
+markdown: kramdown
